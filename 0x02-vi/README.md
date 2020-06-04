@@ -1,1 +1,0 @@
-# Vi or Emacs ?
